@@ -2,7 +2,7 @@
 
 A subscription-driven MERN stack application combining golf performance tracking, monthly prize draws, and charitable fundraising.
 
-**Live Website:** [Deployed Link](https://golf-charity-subscription-gilt.vercel.app/)]  
+**Live Website:** [Deployed Link](https://golf-charity-subscription-gilt.vercel.app/)
 
 ---
 
