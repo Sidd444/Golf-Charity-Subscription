@@ -28,9 +28,5 @@ A subscription-driven MERN stack application combining golf performance tracking
 *   **File Handling:** Multer (for winner proof uploads).
 
 
-### Evaluation Criteria Compliance
-*   **Requirements Interpretation:** Translates all PDF specifications into functional features.
-*   **System Design:** Proper data modeling for Draws, Users, and Charities.
-*   **Scalability:** Structure ready for multi-country expansion and mobile app porting.
-*   **Data Handling:** Accurate calculation of prize shares (40/35/25%) and charity percentages.
+
 
